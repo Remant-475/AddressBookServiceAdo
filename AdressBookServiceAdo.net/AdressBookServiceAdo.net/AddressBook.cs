@@ -18,7 +18,8 @@ namespace AdressBookServiceAdo.net
             public int zip { get; set; }
             public int PhoneNumber { get; set; }
             public string Email { get; set; }
-            public string ContactType { get; set; }
+        public string ContactType_Name { get; set; }
+           
            
         }
     }
